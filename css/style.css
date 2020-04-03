@@ -17485,6 +17485,7 @@
   .random-color1 {
     padding: 15px;
     border-radius: 5px;
+    min-width: 350px;
     margin-bottom: 10px;
     background-color: rgb(22, 49, 49);
   }
@@ -17492,21 +17493,29 @@
   .random-color2 {
     padding: 15px;
     border-radius: 5px;
+    min-width: 350px;
     margin-bottom: 10px;
     background-color: rgb(90, 18, 74);
   }
   .random-color3 {
     padding: 15px;
     border-radius: 5px;
+    min-width: 350px;
     margin-bottom: 10px;
     background-color: rgb(40, 73, 21);
   }
   .random-color4 {
     padding: 15px;
     border-radius: 5px;
+    min-width: 350px;
     margin-bottom: 10px;
     background-color: rgb(27, 17, 59);
   }
   .card-height {
     min-height: 200px;
+  }
+  
+  .repair-card {
+    min-height: 200px;
+    min-width: 350px;
   }
