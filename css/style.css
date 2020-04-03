@@ -17437,3 +17437,28 @@
   }
   
   
+  body {
+    overflow-x: hidden;
+  }
+
+  .category-background {
+    background-color: rgb(226, 226, 226);
+    padding: 5px;
+    margin-bottom: 0px;
+  }
+
+  .category-icons {
+    padding: 10px;
+  }
+
+  .footer-link:hover, .link-white:hover {
+    color: #f59933;
+  }
+
+  .nav-link a{
+    color: black;
+  }
+
+  .nav-link a:hover, .w-nav-brand:hover, .nav-dropdown-link-v2:hover{
+    color: #f59933;
+  }
