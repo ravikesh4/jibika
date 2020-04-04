@@ -17485,7 +17485,7 @@
   .random-color1 {
     padding: 15px;
     border-radius: 5px;
-    min-width: 350px;
+    width: 290px;
     margin-bottom: 10px;
     background-color: rgb(22, 49, 49);
   }
@@ -17493,21 +17493,21 @@
   .random-color2 {
     padding: 15px;
     border-radius: 5px;
-    min-width: 350px;
+    width: 290px;
     margin-bottom: 10px;
     background-color: rgb(90, 18, 74);
   }
   .random-color3 {
     padding: 15px;
     border-radius: 5px;
-    min-width: 350px;
+    width: 290px;
     margin-bottom: 10px;
     background-color: rgb(40, 73, 21);
   }
   .random-color4 {
     padding: 15px;
     border-radius: 5px;
-    min-width: 350px;
+    width: 290px;
     margin-bottom: 10px;
     background-color: rgb(27, 17, 59);
   }
@@ -17517,5 +17517,26 @@
   
   .repair-card {
     min-height: 200px;
-    min-width: 350px;
+    width: 270px;
+  }
+
+  .for-you-card {
+    display: flex;
+    margin-bottom: 25px;
+  }
+
+  a.for-you-card {
+    color: black;
+  }
+
+  .item-card {
+    height: 180px;
+    width: 300px;
+  }
+
+  .see-icon {
+    background-color: #f59933;
+    border-radius: 50%;
+    width: 14px;
+    color: white;
   }
