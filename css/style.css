@@ -17540,3 +17540,19 @@
     width: 14px;
     color: white;
   }
+
+  .axis-horizontal{
+    overflow-x: scroll;
+    display: flex;
+    flex-direction: row;
+    flex-flow: nowrap;
+    overflow-y: hidden;
+    padding: 0 10px;
+  }
+
+  .stretch {
+    margin: 10px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 270px;
+  }
